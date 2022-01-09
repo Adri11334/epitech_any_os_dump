@@ -27,7 +27,7 @@ $  git clone git@github.com:Adri11334/epitech_manjaro_dump.git /temp/dump
 
 $  cd /temp/dump/EPITECH_STUFF/
 
-$  sudo ./install <prenom.nom@epitech.eu>
+$  ./install <prenom.nom@epitech.eu>
 
 $  sudo ./build_csfml
 
