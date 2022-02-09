@@ -23,11 +23,11 @@ Placer l'iso dans une clé USB bootable, puis relancez votre pc dessus pour proc
 **Une fois sur votre nouvelle machine :**
 
 ```shell
-$  sudo git clone git@github.com:Adri11334/epitech_any_os_dump.git /temp/dump
+$  git clone git@github.com:Adri11334/epitech_any_os_dump.git
 
-$  cd /temp/dump/EPITECH_STUFF/
+$  cd epitech_any_os_dump/EPITECH_STUFF/
 
-$  sudo ./install <prenom.nom@epitech.eu>
+$  ./install <prenom.nom@epitech.eu>
 
 $  sudo ./build_csfml
 
