@@ -23,11 +23,11 @@ Placer l'iso dans une clé USB bootable, puis relancez votre pc dessus pour proc
 **Une fois sur votre nouvelle machine :**
 
 ```shell
-$  git clone git@github.com:Adri11334/epitech_manjaro_dump.git /temp/dump
+$  sudo git clone git@github.com:Adri11334/epitech_any_os_dump.git /temp/dump
 
 $  cd /temp/dump/EPITECH_STUFF/
 
-$  ./install <prenom.nom@epitech.eu>
+$  sudo ./install <prenom.nom@epitech.eu>
 
 $  sudo ./build_csfml
 
